@@ -1,0 +1,31 @@
+.main .container {
+  padding: 5%;
+}
+
+.main h1 {
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-size: 48px;
+}
+
+.main h3, p {
+  font-family: 'Noto Serif JP', serif;
+}
+
+.main h3 {
+  font-size: 36px;
+}
+
+.main p {
+  font-size: 20px;
+}
+
+.main .member {
+  display: flex;
+  padding: 1%;
+}
+
+.main .member img {
+  width: 200px;
+  height: 200px;
+  margin-right: 1%;
+}

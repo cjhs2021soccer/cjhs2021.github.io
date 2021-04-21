@@ -1,0 +1,48 @@
+header {
+  position: fixed;
+  top: 0;
+  background-color: rgba(34,49,52,0.9);
+  width: 100%;
+}
+
+header .container {
+  display: flex;
+}
+
+.header-logo {
+  padding: 11px 28px;
+  margin-right: 128px;
+}
+
+.header-logo:hover {
+  cursor: pointer;
+}
+
+.header-logo a {
+  color: white;
+  font-size: 28px;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  text-decoration: none;
+}
+
+.header-list ul {
+  display: flex;
+}
+
+.header-list li {
+  list-style: none;
+}
+
+.header-list li:hover {
+  background-color: rgba(255,255,255,0.3);
+  transition: all 0.5s;
+}
+
+.header-list li a {
+  display: block;
+  text-decoration: none;
+  color: white;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-size: 20px;
+  padding: 17px 28px;
+}

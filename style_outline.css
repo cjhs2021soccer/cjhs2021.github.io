@@ -1,0 +1,31 @@
+.main .container {
+  background-color: #f7f7f7;
+  border-radius: 72px;
+  margin: 5% 10%;
+}
+
+.main h1 {
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-size: 36px;
+  padding: 5%;
+}
+
+.main .text h3, p {
+  font-family: 'Noto Serif JP', serif;
+}
+
+.main .text h3 {
+  font-size: 28px;
+  padding: 0 5%;
+  padding-bottom: 28px;
+}
+
+.main .text p {
+  font-size: 20px;
+  line-height: 36px;
+  padding: 0 7%;
+}
+
+.main .what, .policy, .when, .where, .message {
+  padding-bottom: 48px;
+}
